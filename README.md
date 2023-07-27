@@ -16,5 +16,3 @@ https://github.com/anushavalasapalli-97/Clovity_CodingAssessment/blob/main/Scree
 
 
 https://github.com/anushavalasapalli-97/Clovity_CodingAssessment/blob/main/Screenshot%202023-07-26%20at%205.28.46%20PM.png
-
-Screenshot 2023-07-26 at 5.28.29 PM.png
