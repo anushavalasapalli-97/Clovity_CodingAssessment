@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "450F288E-F148-426F-9A7E-710695D0E3B0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A5019F24-39A7-4E71-A8CD-0DF8CACCCC36"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Clovity-CodeAssessment/CountriesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "fetchCountries()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A5019F24-39A7-4E71-A8CD-0DF8CACCCC36 - 6f5f2355779d36ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Array&lt;Clovity_CodeAssessment.Country&gt;) -&gt; () in Clovity_CodeAssessment.CountriesViewModel.fetchCountries() -&gt; ()"
+                  moduleName = "Clovity-CodeAssessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anushavalasapalli/Documents/iOS/Clovity-CodeAssessment/Clovity-CodeAssessment/CountriesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "61">
+               </Location>
+               <Location
+                  uuid = "A5019F24-39A7-4E71-A8CD-0DF8CACCCC36 - 6f5f2355779d3689"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Array&lt;Clovity_CodeAssessment.Country&gt;) -&gt; () in Clovity_CodeAssessment.CountriesViewModel.fetchCountries() -&gt; ()"
+                  moduleName = "Clovity-CodeAssessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anushavalasapalli/Documents/iOS/Clovity-CodeAssessment/Clovity-CodeAssessment/CountriesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "61">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1AF6DA0A-8ACD-4405-B1B2-21B53E865993"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Clovity-CodeAssessment/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
